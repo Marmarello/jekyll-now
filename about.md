@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Обом мне
+title: Обо мне
 permalink: /about/
 ---
 
 Доходяга, пытющийся в машинное обучение
 
-### More Information
+### Детальки
 
 Покачто рассказать не о чем, но то ли ещё будет
 
-### Contact me
+### Контакты
 
 [alexandr.teplov.rus@gmail.com](alexandr.teplov.rus@gmail.com)
