@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Обом мне
 permalink: /about/
 ---
 
-Some information about you!
+Доходяга, пытющийся в машинное обучение
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Покачто рассказать не о чем, но то ли ещё будет
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alexandr.teplov.rus@gmail.com](alexandr.teplov.rus@gmail.com)
